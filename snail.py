@@ -1,4 +1,4 @@
-def snail(snail_map):
+def snail(snail_map: list) -> list:
 
     result = []
     while len(snail_map):
